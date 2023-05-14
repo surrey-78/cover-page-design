@@ -130,6 +130,7 @@ cover.html code
 ~~~
 
 ## Output:
+![Screenshot 2023-05-14 184956](https://github.com/surrey-78/cover-page-design/assets/119559366/72876c42-4231-4ffe-9c12-26acede217b1)
 
 
 ## Result:
